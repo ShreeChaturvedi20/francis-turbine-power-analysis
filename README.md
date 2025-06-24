@@ -1,7 +1,6 @@
 francis-turbine-power-analysis/
 ├── analysis/
 │   ├── sigma_curve_plotter.py
-│   ├── sigma_efficiency_curve.py
 │   └── velocity_triangle.py
 ├── cpp_tools/
 |________power potential calculator.cpp
