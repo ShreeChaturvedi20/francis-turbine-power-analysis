@@ -4,6 +4,7 @@ francis-turbine-power-analysis/
 │   ├── sigma_efficiency_curve.py
 │   └── velocity_triangle.py
 ├── cpp_tools/
+|________power potential calculator.cpp
 │   └── euler_power.cpp
 ├── ml_models/
 │   ├── cavitation_mlp.py
