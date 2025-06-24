@@ -5,6 +5,8 @@ francis-turbine-power-analysis/
 │   └── velocity_triangle.py
 ├── cpp_tools/
 │   └── euler_power.cpp
+├── images/
+│   └── simscale_result.png
 ├── ml_models/
 │   ├── cavitation_mlp.py
 │   └── stress_predictor.py
