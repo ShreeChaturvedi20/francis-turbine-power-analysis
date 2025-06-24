@@ -6,6 +6,9 @@ francis-turbine-power-analysis/
 ├── cpp_tools/
 |________power potential calculator.cpp
 │   └── euler_power.cpp
+|_____simulations
+|      * francis turbine simulation in simscale
+       * a pdf of simulations
 ├── ml_models/
 │   ├── cavitation_mlp.py
 │   └── stress_predictor.py
